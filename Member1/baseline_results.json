@@ -1,0 +1,18 @@
+{
+  "model": "ResNet-18",
+  "dataset": "Mini-ImageNet (uncompressed)",
+  "num_classes": 64,
+  "image_size": 96,
+  "test_accuracy": 0.0025,
+  "test_loss": 6.326604,
+  "best_val_accuracy": 0.764844,
+  "total_epochs_phase1": 5,
+  "total_epochs_phase2": 30,
+  "batch_size": 64,
+  "optimizer_phase2": "SGD",
+  "lr_backbone": 0.0001,
+  "lr_head": 0.001,
+  "weight_decay": 0.0001,
+  "label_smoothing": 0.1,
+  "seed": 42
+}
