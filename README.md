@@ -142,13 +142,6 @@ All experiments use `seed = 42`. Run notebooks in order: Member 1 â†’ Member 2 â
 | Compressed 10:1 | ResNet-18 | TBD |
 | Compressed 10:1 | MobileNetV2 | TBD |
 
-> Results will be updated upon project completion.
-
----
-
-## Key Findings
-
-> To be completed after all experiments are finalized.
 
 ---
 
